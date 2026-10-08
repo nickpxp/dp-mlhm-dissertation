@@ -1,0 +1,11 @@
+# Tested with Python 3.12-3.13.
+# diffprivlib 0.6.6 does not import against scikit-learn >= 1.9 (it needs
+# sklearn.tree._tree.DOUBLE/DTYPE); keep scikit-learn on 1.8. Only the central
+# random forest in RQ3 uses diffprivlib.
+numpy>=2.0
+pandas>=2.2
+scikit-learn==1.8.*
+scipy>=1.14
+matplotlib>=3.9
+diffprivlib==0.6.6
+pytest>=8

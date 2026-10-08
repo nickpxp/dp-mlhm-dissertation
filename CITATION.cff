@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the dissertation below."
+title: "Optimizing differential privacy parameters in machine learning healthcare models: codebook"
+version: 1.0.0
+date-released: 2026-10-08
+license: MIT
+repository-code: "https://github.com/nickpxp/dp-mlhm-dissertation"
+authors:
+  - family-names: Pierrelouis
+    given-names: Nick
+    affiliation: Marymount University
+preferred-citation:
+  type: thesis
+  thesis-type: "Doctor of Science dissertation"
+  title: "Optimizing Differential Privacy Parameters in Machine Learning Healthcare Models: Implementation and Pre-Deployment for Medical Device Data"
+  authors:
+    - family-names: Pierrelouis
+      given-names: Nick
+  institution:
+    name: "Marymount University, College of Business, Innovation, Leadership, and Technology"
+  year: 2025
+  month: 9

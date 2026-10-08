@@ -1,0 +1,4 @@
+implementation,ms_per_sample,throughput,peak_mb,environment
+non-private,0.00013918564999926275,7184648.704843473,2.46728,x86_64 | x86_64 | Python 3.13.16 | sklearn 1.9.1
+laplace eps=1.0,0.00014014554999732808,7135438.834975961,2.46728,x86_64 | x86_64 | Python 3.13.16 | sklearn 1.9.1
+gaussian eps=1.0,0.00013694179999959032,7302372.248670542,2.46728,x86_64 | x86_64 | Python 3.13.16 | sklearn 1.9.1
